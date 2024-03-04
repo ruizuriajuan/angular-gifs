@@ -11,6 +11,7 @@
     "build:href": "ng build --base-href ./",
     "delete:docs": "del docs",
     "copy:dist": "copyfiles dist/angular-gifs/* ./docs -f"
+    
   },
   "private": true,
   "dependencies": {
